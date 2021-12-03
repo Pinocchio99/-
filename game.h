@@ -12,4 +12,3 @@ void DisplayBoard(char arr[COWS][COLS], int cows, int cols);
 void SetMine(char mine[COWS][COLS], int cow, int col, int min);
 int MineNumber(char mine[][COLS], int x, int y);
 void ExtendCell(char mine[COWS][COLS], char show[COWS][COLS], int x, int y);
-//-
